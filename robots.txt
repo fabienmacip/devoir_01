@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://www.fatabien.com/digital_campus/01/sitemap.xml
